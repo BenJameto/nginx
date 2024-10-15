@@ -1,2 +1,4 @@
 *.yaml
 !nginx-deployment.yaml
+!jenkins-clusterrole.yaml
+!jenkins-clusterrolebinding.yaml
