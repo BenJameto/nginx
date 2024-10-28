@@ -18,6 +18,7 @@ git clone BenJameto/nginx
 
 7. Dale click a **Construir ahora**
 
+```
 pipeline {
     agent any
 
@@ -48,5 +49,5 @@ pipeline {
         }
     }
 }
-
+```
 8. Copia la url de jenkins y cambiala por 192.168.x.x:30007, veras welcome to nginx
